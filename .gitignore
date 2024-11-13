@@ -1,0 +1,42 @@
+   # Python files
+   __pycache__/
+   *.py[cod]
+   *$py.class
+   *.so
+
+   # Distribution/packaging
+   dist/
+   build/
+   *.egg-info/
+
+   # Virtual environments
+   venv/
+   env/
+   .env/
+   .venv/
+   ENV/
+
+   # IDE specific files
+   .idea/
+   .vscode/
+   *.swp
+   *.swo
+
+   # Environment variables
+   .env
+   .flaskenv
+
+   # Local development files
+   instance/
+   .webassets-cache
+
+   # Database files
+   *.db
+   *.sqlite3
+
+   # Log files
+   *.log
+
+   # OS specific files
+   .DS_Store
+   Thumbs.db
